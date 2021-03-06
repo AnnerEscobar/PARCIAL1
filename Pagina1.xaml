@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mi_Primera_App.Pagina1">
+    
+    <ContentPage.Content>
+        <StackLayout>
+            
+            <Label Text="BIENVENIDO"
+                   FontSize="26" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+            <Label Text="ADIVINARE TU NUMERO"
+                   FontSize="22" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+            <Label Text="Piensa en un numero y multiplicalo por (2) "
+                   FontSize="15" FontAttributes="Italic" BackgroundColor="#C5CAE9"
+                   TextColor="Black" Margin="2,2,2,2" Padding="2,2,2,2"/>
+            <Label Text="Genial!! Al resultado sumale (8) "
+                   FontSize="15" FontAttributes="Italic" BackgroundColor="#C5CAE9"
+                   TextColor="Black" Margin="2,2,2,2" Padding="2,2,2,2"/>
+            <Label Text="Excelente, ahora multiplicalo por (5) "
+                   FontSize="15" FontAttributes="Italic" BackgroundColor="#C5CAE9"
+                   TextColor="Black" Margin="2,2,2,2" Padding="2,2,2,2"/>
+            <Label Text="Ahora dame tu resultado "
+                   FontSize="15" FontAttributes="Italic" BackgroundColor="#C5CAE9"
+                   TextColor="Black" Margin="2,2,2,2" Padding="2,2,2,2"/>
+            <Entry Placeholder="Resultado" HorizontalTextAlignment="Center" x:Name="resultado" Margin="85,5,85,5"/>
+            <Button  Text="Aceptar"   
+                    x:Name="bontonAceptar"
+                    Clicked="bontonAceptar_Clicked"
+                    Background="#C5CAE9" 
+                    BorderColor="white"
+                    BorderWidth="5"
+                    FontSize="18"
+                    CornerRadius="25"
+                    VerticalOptions="Center"
+                     />
+            <Entry Placeholder="El numero que pensaste" x:Name="numero2" HorizontalTextAlignment="Center" Margin="50,5,50,5"/>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+    
+    
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mi_Primera_App.Pagina2">
+    <ContentPage.Content>
+        <StackLayout>
+            
+            <Label Text="BIENVENIDO"
+                   FontSize="26" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+            <Label Text="ADIVINARE TU FECHA DE CUMPLEAÑOS"
+                   FontSize="22" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+            
+            <Label Text="Anota el dia que naciste por ejemplo: (27) "
+                   FontSize="15" FontAttributes="Italic" BackgroundColor="#C5CAE9"
+                   TextColor="Black" Margin="2,2,2,2" Padding="2,2,2,2"/>
+            
+            <Label Text="Genial!! Multiplicalo por (20) "
+                   FontSize="15" FontAttributes="Italic" BackgroundColor="#C5CAE9"
+                   TextColor="Black" Margin="2,2,2,2" Padding="2,2,2,2"/>
+            
+            <Label Text="Excelente, Sumale (73) "
+                   FontSize="15" FontAttributes="Italic" BackgroundColor="#C5CAE9"
+                   TextColor="Black" Margin="2,2,2,2" Padding="2,2,2,2"/>
+            
+            <Label Text="Muy bien, Multiplica el resultado por (5) "
+                   FontSize="15" FontAttributes="Italic" BackgroundColor="#C5CAE9"
+                   TextColor="Black" Margin="2,2,2,2" Padding="2,2,2,2"/>
+
+            <Label Text="Por ultimo sumale el numero del mes de tu cumple por ejemplo (06) "
+                   FontSize="15" FontAttributes="Italic" BackgroundColor="#C5CAE9"
+                   TextColor="Black" Margin="2,2,2,2" Padding="2,2,2,2"/>
+
+            <Label Text="Ahora dame tu resultado "
+                   FontSize="15" FontAttributes="Italic" BackgroundColor="#C5CAE9"
+                   TextColor="Black" Margin="2,2,2,2" Padding="2,2,2,2"/>
+            
+            <Entry Placeholder="Resultado" HorizontalTextAlignment="Center" x:Name="resultado" Margin="85,5,85,5"/>
+            
+            <Button  Text="Aceptar"
+                    Clicked="Aceptar_Clicked"
+                    x:Name="Aceptar"
+                    Background="#C5CAE9" 
+                    BorderColor="white"
+                    BorderWidth="5"
+                    FontSize="18"
+                    CornerRadius="25"
+                    VerticalOptions="Center"
+                     />
+            <Label Text="Tu fecha de nacimiento es:"  FontSize="15" FontAttributes="Italic" BackgroundColor="#C5CAE9"
+                   TextColor="Black" Margin="2,2,2,2" Padding="2,2,2,2"/>
+
+            <Entry Placeholder="Naciste el dia" Margin="5,5,85,5" x:Name="dia"/>
+            <Entry Placeholder="Del mes" Margin="5,5,85,5" x:Name="mes"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,16 @@
+C:\Users\Anner\source\repos\Mi Primera App\Mi Primera App\Mi Primera App\obj\Debug\netstandard2.0\Mi Primera App.csprojAssemblyReference.cache
+C:\Users\Anner\source\repos\Mi Primera App\Mi Primera App\Mi Primera App\bin\Debug\netstandard2.0\Mi Primera App.deps.json
+C:\Users\Anner\source\repos\Mi Primera App\Mi Primera App\Mi Primera App\bin\Debug\netstandard2.0\Mi Primera App.dll
+C:\Users\Anner\source\repos\Mi Primera App\Mi Primera App\Mi Primera App\bin\Debug\netstandard2.0\ref\Mi Primera App.dll
+C:\Users\Anner\source\repos\Mi Primera App\Mi Primera App\Mi Primera App\bin\Debug\netstandard2.0\Mi Primera App.pdb
+C:\Users\Anner\source\repos\Mi Primera App\Mi Primera App\Mi Primera App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Anner\source\repos\Mi Primera App\Mi Primera App\Mi Primera App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Anner\source\repos\Mi Primera App\Mi Primera App\Mi Primera App\obj\Debug\netstandard2.0\Mi Primera App.AssemblyInfoInputs.cache
+C:\Users\Anner\source\repos\Mi Primera App\Mi Primera App\Mi Primera App\obj\Debug\netstandard2.0\Mi Primera App.AssemblyInfo.cs
+C:\Users\Anner\source\repos\Mi Primera App\Mi Primera App\Mi Primera App\obj\Debug\netstandard2.0\Mi Primera App.csproj.CoreCompileInputs.cache
+C:\Users\Anner\source\repos\Mi Primera App\Mi Primera App\Mi Primera App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Anner\source\repos\Mi Primera App\Mi Primera App\Mi Primera App\obj\Debug\netstandard2.0\Mi Primera App.dll
+C:\Users\Anner\source\repos\Mi Primera App\Mi Primera App\Mi Primera App\obj\Debug\netstandard2.0\ref\Mi Primera App.dll
+C:\Users\Anner\source\repos\Mi Primera App\Mi Primera App\Mi Primera App\obj\Debug\netstandard2.0\Mi Primera App.pdb
+C:\Users\Anner\source\repos\Mi Primera App\Mi Primera App\Mi Primera App\obj\Debug\netstandard2.0\Pagina1.xaml.g.cs
+C:\Users\Anner\source\repos\Mi Primera App\Mi Primera App\Mi Primera App\obj\Debug\netstandard2.0\Pagina2.xaml.g.cs
